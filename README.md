@@ -20,6 +20,8 @@
 ## 1. 프로젝트 명
 
 **티켓온 (Ticket-On)** - 고성능 대용량 트래픽 처리 티켓 예매 시스템
+![image](https://github.com/user-attachments/assets/77dba107-1f33-4e46-83ef-f86935918668)
+
 <br/>
 [TicketON 서비스 바로가기](https://code-bug.vercel.app/)
 
