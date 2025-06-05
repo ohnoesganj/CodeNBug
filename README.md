@@ -320,6 +320,8 @@ user/
 </br>
 
 ## API 명세서
+![image](https://github.com/user-attachments/assets/5b17da73-6b02-465f-b055-1589b1dba7c4)
+
 
 ## 1. 사용자 관련 API
 
